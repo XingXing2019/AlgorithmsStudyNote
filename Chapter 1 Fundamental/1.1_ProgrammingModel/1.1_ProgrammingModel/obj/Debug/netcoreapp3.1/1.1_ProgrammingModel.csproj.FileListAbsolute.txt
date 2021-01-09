@@ -1,0 +1,13 @@
+F:\C#\Algorithms\Chapter 1\1.1_ProgrammingModel\1.1_ProgrammingModel\bin\Debug\netcoreapp3.1\1.1_ProgrammingModel.exe
+F:\C#\Algorithms\Chapter 1\1.1_ProgrammingModel\1.1_ProgrammingModel\bin\Debug\netcoreapp3.1\1.1_ProgrammingModel.deps.json
+F:\C#\Algorithms\Chapter 1\1.1_ProgrammingModel\1.1_ProgrammingModel\bin\Debug\netcoreapp3.1\1.1_ProgrammingModel.runtimeconfig.json
+F:\C#\Algorithms\Chapter 1\1.1_ProgrammingModel\1.1_ProgrammingModel\bin\Debug\netcoreapp3.1\1.1_ProgrammingModel.runtimeconfig.dev.json
+F:\C#\Algorithms\Chapter 1\1.1_ProgrammingModel\1.1_ProgrammingModel\bin\Debug\netcoreapp3.1\1.1_ProgrammingModel.dll
+F:\C#\Algorithms\Chapter 1\1.1_ProgrammingModel\1.1_ProgrammingModel\bin\Debug\netcoreapp3.1\1.1_ProgrammingModel.pdb
+F:\C#\Algorithms\Chapter 1\1.1_ProgrammingModel\1.1_ProgrammingModel\obj\Debug\netcoreapp3.1\1.1_ProgrammingModel.csprojAssemblyReference.cache
+F:\C#\Algorithms\Chapter 1\1.1_ProgrammingModel\1.1_ProgrammingModel\obj\Debug\netcoreapp3.1\1.1_ProgrammingModel.AssemblyInfoInputs.cache
+F:\C#\Algorithms\Chapter 1\1.1_ProgrammingModel\1.1_ProgrammingModel\obj\Debug\netcoreapp3.1\1.1_ProgrammingModel.AssemblyInfo.cs
+F:\C#\Algorithms\Chapter 1\1.1_ProgrammingModel\1.1_ProgrammingModel\obj\Debug\netcoreapp3.1\1.1_ProgrammingModel.csproj.CoreCompileInputs.cache
+F:\C#\Algorithms\Chapter 1\1.1_ProgrammingModel\1.1_ProgrammingModel\obj\Debug\netcoreapp3.1\1.1_ProgrammingModel.dll
+F:\C#\Algorithms\Chapter 1\1.1_ProgrammingModel\1.1_ProgrammingModel\obj\Debug\netcoreapp3.1\1.1_ProgrammingModel.pdb
+F:\C#\Algorithms\Chapter 1\1.1_ProgrammingModel\1.1_ProgrammingModel\obj\Debug\netcoreapp3.1\1.1_ProgrammingModel.genruntimeconfig.cache
