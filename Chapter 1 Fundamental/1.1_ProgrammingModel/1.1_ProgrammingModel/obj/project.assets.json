@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\C#\\Algorithms\\Chapter 1\\1.1_ProgrammingModel\\1.1_ProgrammingModel\\1.1_ProgrammingModel.csproj",
+      "projectUniqueName": "F:\\C#\\Algorithms\\Chapter 1 Fundamental\\1.1_ProgrammingModel\\1.1_ProgrammingModel\\1.1_ProgrammingModel.csproj",
       "projectName": "1.1_ProgrammingModel",
-      "projectPath": "F:\\C#\\Algorithms\\Chapter 1\\1.1_ProgrammingModel\\1.1_ProgrammingModel\\1.1_ProgrammingModel.csproj",
+      "projectPath": "F:\\C#\\Algorithms\\Chapter 1 Fundamental\\1.1_ProgrammingModel\\1.1_ProgrammingModel\\1.1_ProgrammingModel.csproj",
       "packagesPath": "C:\\Users\\xxing\\.nuget\\packages\\",
-      "outputPath": "F:\\C#\\Algorithms\\Chapter 1\\1.1_ProgrammingModel\\1.1_ProgrammingModel\\obj\\",
+      "outputPath": "F:\\C#\\Algorithms\\Chapter 1 Fundamental\\1.1_ProgrammingModel\\1.1_ProgrammingModel\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\xxing\\AppData\\Roaming\\NuGet\\NuGet.Config",

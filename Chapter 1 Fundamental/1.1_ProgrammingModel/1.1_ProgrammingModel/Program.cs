@@ -6,7 +6,7 @@ namespace _1._1_ProgrammingModel
     {
         static void Main(string[] args)
         {
-
+            Ex09(int.MinValue);
         }
 
         static int Gcd(int p, int q)
@@ -101,35 +101,24 @@ namespace _1._1_ProgrammingModel
         static void Ex09(int N)
         {
             Console.WriteLine(Convert.ToString(N, 2));
-
-            var abs = Math.Abs(N);
+            
+            bool neg = N < 0, start = false;
+            if (N < 0) N = ~N;
             var digits = new int[32];
             var index = 32;
+            while (N != 0)
+            {
+                digits[--index] = N & 1;
+                N >>= 1;
+            }
             var res = "";
-            while (abs != 0)
+            for (int i = 0; i < digits.Length; i++)
             {
-                digits[--index] = abs & 1;
-                abs >>= 1;
+                if (neg) digits[i] ^= 1;
+                if (digits[i] == 1) start = true;
+                if (start) res += digits[i];
             }
-            if (N < 0)
-            {
-                for (int i = 0; i < 32; i++)
-                    digits[i] = digits[i] ^ 1;
-                digits[^1]++;
-                int cur = 0, car = 0;
-                for (int i = 31; i >= 0; i--)
-                {
-                    cur = (digits[i] + car) % 2;
-                    car = (digits[i] + car) / 2;
-                    digits[i] = cur;
-                }
-            }
-            var start = false;
-            foreach (var digit in digits)
-            {
-                if (digit == 1) start = true;
-                if (start) res += digit;
-            }
+            if (res == "") res = "0";
             Console.WriteLine(res);
         }
     }
